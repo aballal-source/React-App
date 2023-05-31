@@ -1,2 +1,2 @@
 # React-App
-first react application
+first solo react application
