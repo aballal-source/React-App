@@ -1,2 +1,2 @@
 # React-App
-first solo react application
+This is a vite + react application starter template
